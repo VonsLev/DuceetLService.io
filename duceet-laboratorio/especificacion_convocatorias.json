@@ -1,0 +1,52 @@
+{
+  "version": "1.0.0",
+  "sourceIds": [
+    "talento_peru",
+    "sunat_jobs",
+    "servir_jobs"
+  ],
+  "fields": [
+    "id",
+    "title",
+    "entity",
+    "jobTitle",
+    "modality",
+    "region",
+    "province",
+    "district",
+    "publishedAt",
+    "deadline",
+    "status",
+    "officialUrl",
+    "basesUrl",
+    "sourceUrl",
+    "checkedAt",
+    "verificationStatus"
+  ],
+  "statuses": [
+    "vigente",
+    "por_verificar",
+    "vencida",
+    "cancelada",
+    "resultado_publicado"
+  ],
+  "rules": [
+    "No calcular vigencia sin fecha límite verificable.",
+    "Distinguir fecha de publicación de fecha límite.",
+    "No tratar el enlace general de una entidad como enlace directo a una convocatoria individual.",
+    "Registrar última comprobación y clasificar enlaces rotos.",
+    "Deduplicar por entidad, número de proceso y año.",
+    "Ordenar por fecha límite ascendente y mostrar primero las vigentes verificadas."
+  ],
+  "filters": [
+    "entidad",
+    "puesto",
+    "profesión",
+    "modalidad",
+    "departamento",
+    "provincia",
+    "tipo de contrato",
+    "fecha límite",
+    "vigencia"
+  ]
+}

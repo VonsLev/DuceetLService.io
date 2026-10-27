@@ -1,0 +1,34 @@
+DUCEET v16.6 — PERSISTENCIA DEL HISTÓRICO AL RECARGAR
+
+PROBLEMA CORREGIDO
+La lista de novedades podía superar la cuota reducida de localStorage. La aplicación ocultaba el error al guardar `duceet.news`, por lo que la lista grande permanecía solo en memoria y al recargar podía volver a cero.
+
+CAMBIO
+- Se conserva una copia de hasta 20.000 fichas en IndexedDB del mismo navegador/origen.
+- La página restaura la copia de IndexedDB ANTES de iniciar un nuevo rastreo.
+- Una sincronización vacía no sustituye el histórico local guardado.
+- Exportar respaldo lee primero el estado de la aplicación en memoria (no solo localStorage), y la importación de respaldo escribe también en IndexedDB.
+- El rastreo espera a que finalice la escritura de la copia grande antes de indicar que terminó.
+- La mejora está incluida tanto en el HTML principal como en la variante LAB_INTEGRADO.
+
+QUÉ REEMPLAZAR EN GITHUB
+En la raíz del repositorio, reemplazar estos archivos con los del ZIP:
+1. `Duceet_juridico_Peru_internacional_v16.html`
+2. `Duceet_juridico_Peru_internacional_v16_LAB_INTEGRADO.html`
+3. `duceet-tracker-server-v16.js` (solo para que el endpoint identifique la versión 16.6; no requiere cambiar Build/Start Command).
+4. `package.json`
+
+Mantener la carpeta `duceet-laboratorio` y las plantillas Word incluidas. Render debe seguir usando `npm install` como Build Command y `npm start` como Start Command.
+
+PRIMER ARRANQUE Y RESPALDO
+Si el navegador todavía muestra los 6.000 registros, se recomienda exportar una copia JSON una sola vez ANTES de reemplazar archivos. No es necesario importarla en cada uso. Si actualmente muestra cero, este paquete preservará el histórico que vuelva a acumular, pero no puede reconstruir los datos que ya hayan desaparecido de la memoria y de cualquier respaldo.
+
+ALCANCE Y LÍMITES
+IndexedDB permite que el histórico del mismo navegador sobreviva a una recarga y a reinicios del servicio desde ese navegador. La copia es local a ese navegador/perfil; no se sincroniza automáticamente a otros dispositivos.
+
+El filesystem de Render es efímero por defecto. Si se necesita un único histórico compartido entre todos los usuarios y recuperación tras reinicios del servidor, configurar un almacenamiento persistente del lado servidor: un Persistent Disk montado en `/var/data` con `DUCEET_DATA_DIR=/var/data` en un plan compatible, o una base de datos persistente. Un servicio gratuito de Render no admite Persistent Disk.
+
+VALIDACIÓN
+- Comprobada sintaxis Node.js de todos los bloques JavaScript inline de ambos HTML.
+- Comprobada sintaxis del servidor y estructura de package.json.
+- La automatización de navegador para el test de recarga fue bloqueada por la política del entorno de ejecución; por tanto, no se afirma una prueba de clic/recarga de extremo a extremo sobre Render.

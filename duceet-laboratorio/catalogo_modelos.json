@@ -1,0 +1,3242 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-10-08",
+  "count": 147,
+  "note": "Catálogo de cobertura; no equivale a plantillas legalmente validadas.",
+  "models": [
+    {
+      "id": "mod-001",
+      "title": "Demanda de obligación de dar suma de dinero",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-002",
+      "title": "Demanda de resolución contractual",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-003",
+      "title": "Demanda de otorgamiento de escritura pública",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-004",
+      "title": "Demanda de desalojo por vencimiento de contrato",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-005",
+      "title": "Demanda de desalojo por ocupación precaria",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-006",
+      "title": "Demanda de prescripción adquisitiva de dominio",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-007",
+      "title": "Demanda de indemnización por daños y perjuicios",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-008",
+      "title": "Demanda de nulidad de acto jurídico",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-009",
+      "title": "Demanda de división y partición",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-010",
+      "title": "Demanda de alimentos (cuando corresponda la vía civil/familiar aplicable)",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-011",
+      "title": "Contestación de demanda",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-012",
+      "title": "Excepción procesal",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-013",
+      "title": "Defensa previa",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-014",
+      "title": "Reconvención",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-015",
+      "title": "Solicitud de medida cautelar",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-016",
+      "title": "Solicitud de actuación de prueba anticipada",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-017",
+      "title": "Tacha u oposición probatoria",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-018",
+      "title": "Solicitud de saneamiento procesal",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-019",
+      "title": "Alegatos escritos",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-020",
+      "title": "Recurso de reposición",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-021",
+      "title": "Recurso de apelación",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-022",
+      "title": "Recurso de casación",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-023",
+      "title": "Solicitud de ejecución de sentencia",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-024",
+      "title": "Solicitud de endoso/entrega de certificado judicial",
+      "branch": "Civil - Código Procesal Civil",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-025",
+      "title": "Denuncia penal",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-026",
+      "title": "Apersonamiento de defensa",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-027",
+      "title": "Solicitud de tutela de derechos",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-028",
+      "title": "Solicitud de control de plazo",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-029",
+      "title": "Solicitud de constitución en actor civil",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-030",
+      "title": "Solicitud de incorporación como tercero civil responsable",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-031",
+      "title": "Requerimiento/solicitud de prisión preventiva (formato de parte, según rol procesal)",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-032",
+      "title": "Solicitud de comparecencia con restricciones",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-033",
+      "title": "Oposición a requerimiento fiscal",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-034",
+      "title": "Solicitud de sobreseimiento",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-035",
+      "title": "Acusación particular cuando proceda",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-036",
+      "title": "Solicitud de actuación de diligencias",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-037",
+      "title": "Solicitud de exclusión probatoria",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-038",
+      "title": "Recurso de reposición",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-039",
+      "title": "Recurso de apelación de auto",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-040",
+      "title": "Recurso de apelación de sentencia",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-041",
+      "title": "Recurso de casación penal",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-042",
+      "title": "Solicitud de terminación anticipada (según rol y etapa)",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-043",
+      "title": "Solicitud de reparación civil",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-044",
+      "title": "Solicitud de rehabilitación",
+      "branch": "Penal - Código Procesal Penal",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-045",
+      "title": "Demanda de hábeas corpus",
+      "branch": "Constitucional - Nuevo Código Procesal Constitucional",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-046",
+      "title": "Demanda de amparo",
+      "branch": "Constitucional - Nuevo Código Procesal Constitucional",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-047",
+      "title": "Demanda de hábeas data",
+      "branch": "Constitucional - Nuevo Código Procesal Constitucional",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-048",
+      "title": "Demanda de cumplimiento",
+      "branch": "Constitucional - Nuevo Código Procesal Constitucional",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-049",
+      "title": "Contestación en proceso constitucional",
+      "branch": "Constitucional - Nuevo Código Procesal Constitucional",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-050",
+      "title": "Solicitud de medida cautelar constitucional",
+      "branch": "Constitucional - Nuevo Código Procesal Constitucional",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-051",
+      "title": "Recurso de apelación",
+      "branch": "Constitucional - Nuevo Código Procesal Constitucional",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-052",
+      "title": "Recurso de agravio constitucional",
+      "branch": "Constitucional - Nuevo Código Procesal Constitucional",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-053",
+      "title": "Solicitud de actuación urgente",
+      "branch": "Constitucional - Nuevo Código Procesal Constitucional",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-054",
+      "title": "Solicitud de ejecución de sentencia constitucional",
+      "branch": "Constitucional - Nuevo Código Procesal Constitucional",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-055",
+      "title": "Solicitud administrativa general",
+      "branch": "Administrativo - TUO Ley 27444",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-056",
+      "title": "Solicitud de acceso a expediente",
+      "branch": "Administrativo - TUO Ley 27444",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-057",
+      "title": "Descargos en procedimiento sancionador",
+      "branch": "Administrativo - TUO Ley 27444",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-058",
+      "title": "Recurso de reconsideración",
+      "branch": "Administrativo - TUO Ley 27444",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-059",
+      "title": "Recurso de apelación administrativa",
+      "branch": "Administrativo - TUO Ley 27444",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-060",
+      "title": "Solicitud de nulidad de oficio (pedido de parte)",
+      "branch": "Administrativo - TUO Ley 27444",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-061",
+      "title": "Queja por defectos de tramitación",
+      "branch": "Administrativo - TUO Ley 27444",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-062",
+      "title": "Solicitud de acceso a información pública (verificar ley especial vigente)",
+      "branch": "Administrativo - TUO Ley 27444",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-063",
+      "title": "Solicitud de silencio administrativo cuando corresponda",
+      "branch": "Administrativo - TUO Ley 27444",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-064",
+      "title": "Solicitud de prescripción/caducidad en procedimiento sancionador",
+      "branch": "Administrativo - TUO Ley 27444",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-065",
+      "title": "Solicitud de reconocimiento de derecho o beneficio",
+      "branch": "Administrativo - TUO Ley 27444",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-066",
+      "title": "Recurso administrativo en procedimiento trilateral (según caso)",
+      "branch": "Administrativo - TUO Ley 27444",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-067",
+      "title": "Demanda contencioso-administrativa de plena jurisdicción",
+      "branch": "Contencioso-administrativo - Ley 27584",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-068",
+      "title": "Demanda de nulidad de acto administrativo",
+      "branch": "Contencioso-administrativo - Ley 27584",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-069",
+      "title": "Demanda por actuación material no sustentada en acto administrativo",
+      "branch": "Contencioso-administrativo - Ley 27584",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-070",
+      "title": "Contestación de demanda",
+      "branch": "Contencioso-administrativo - Ley 27584",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-071",
+      "title": "Solicitud de medida cautelar",
+      "branch": "Contencioso-administrativo - Ley 27584",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-072",
+      "title": "Excepciones y defensas previas",
+      "branch": "Contencioso-administrativo - Ley 27584",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-073",
+      "title": "Ofrecimiento de medios probatorios permitidos",
+      "branch": "Contencioso-administrativo - Ley 27584",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-074",
+      "title": "Recurso de apelación",
+      "branch": "Contencioso-administrativo - Ley 27584",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-075",
+      "title": "Solicitud de ejecución de sentencia",
+      "branch": "Contencioso-administrativo - Ley 27584",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-076",
+      "title": "Demanda de pago de beneficios sociales",
+      "branch": "Laboral - Ley 29497 y regímenes aplicables",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-077",
+      "title": "Demanda de reposición por despido",
+      "branch": "Laboral - Ley 29497 y regímenes aplicables",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-078",
+      "title": "Demanda de indemnización por despido arbitrario",
+      "branch": "Laboral - Ley 29497 y regímenes aplicables",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-079",
+      "title": "Demanda de reconocimiento de vínculo laboral",
+      "branch": "Laboral - Ley 29497 y regímenes aplicables",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-080",
+      "title": "Demanda de desnaturalización de contratos",
+      "branch": "Laboral - Ley 29497 y regímenes aplicables",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-081",
+      "title": "Demanda de horas extras",
+      "branch": "Laboral - Ley 29497 y regímenes aplicables",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-082",
+      "title": "Demanda de pago de remuneraciones devengadas cuando corresponda",
+      "branch": "Laboral - Ley 29497 y regímenes aplicables",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-083",
+      "title": "Contestación de demanda laboral",
+      "branch": "Laboral - Ley 29497 y regímenes aplicables",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-084",
+      "title": "Solicitud de medida cautelar laboral",
+      "branch": "Laboral - Ley 29497 y regímenes aplicables",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-085",
+      "title": "Recurso de apelación laboral",
+      "branch": "Laboral - Ley 29497 y regímenes aplicables",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-086",
+      "title": "Recurso de casación laboral",
+      "branch": "Laboral - Ley 29497 y regímenes aplicables",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-087",
+      "title": "Solicitud de ejecución de sentencia laboral",
+      "branch": "Laboral - Ley 29497 y regímenes aplicables",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-088",
+      "title": "Demanda de alimentos",
+      "branch": "Familia y niñez",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-089",
+      "title": "Aumento de alimentos",
+      "branch": "Familia y niñez",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-090",
+      "title": "Reducción de alimentos",
+      "branch": "Familia y niñez",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-091",
+      "title": "Exoneración de alimentos",
+      "branch": "Familia y niñez",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-092",
+      "title": "Prorrateo de alimentos",
+      "branch": "Familia y niñez",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-093",
+      "title": "Tenencia",
+      "branch": "Familia y niñez",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-094",
+      "title": "Régimen de visitas",
+      "branch": "Familia y niñez",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-095",
+      "title": "Variación de tenencia o visitas",
+      "branch": "Familia y niñez",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-096",
+      "title": "Divorcio por causal",
+      "branch": "Familia y niñez",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-097",
+      "title": "Separación convencional y divorcio ulterior (vía y requisitos por verificar)",
+      "branch": "Familia y niñez",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-098",
+      "title": "Reconocimiento judicial de unión de hecho",
+      "branch": "Familia y niñez",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-099",
+      "title": "Filiación extramatrimonial",
+      "branch": "Familia y niñez",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-100",
+      "title": "Autorización de viaje de menor",
+      "branch": "Familia y niñez",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-101",
+      "title": "Ejecución de acta conciliatoria",
+      "branch": "Familia y niñez",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-102",
+      "title": "Demanda por incumplimiento contractual comercial",
+      "branch": "Comercial y societario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-103",
+      "title": "Cobro de factura y obligación dineraria",
+      "branch": "Comercial y societario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-104",
+      "title": "Medidas cautelares sobre activos",
+      "branch": "Comercial y societario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-105",
+      "title": "Impugnación de acuerdos societarios",
+      "branch": "Comercial y societario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-106",
+      "title": "Convocatoria judicial a junta (según legitimación)",
+      "branch": "Comercial y societario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-107",
+      "title": "Solicitud de inscripción/rectificación registral",
+      "branch": "Comercial y societario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-108",
+      "title": "Controversia por títulos valores",
+      "branch": "Comercial y societario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-109",
+      "title": "Protesto/constancia y acción cambiaria (según título y plazo)",
+      "branch": "Comercial y societario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-110",
+      "title": "Arbitraje: solicitud de inicio",
+      "branch": "Comercial y societario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-111",
+      "title": "Arbitraje: contestación y reconvención",
+      "branch": "Comercial y societario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-112",
+      "title": "Solicitud de anulación de laudo",
+      "branch": "Comercial y societario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-113",
+      "title": "Solicitud de reconocimiento de derechos laborales públicos",
+      "branch": "Laboral público y empleo público",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-114",
+      "title": "Recurso administrativo en materia laboral pública",
+      "branch": "Laboral público y empleo público",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-115",
+      "title": "Demanda contencioso-administrativa laboral pública",
+      "branch": "Laboral público y empleo público",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-116",
+      "title": "Solicitud de cumplimiento de sentencia laboral pública",
+      "branch": "Laboral público y empleo público",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-117",
+      "title": "Recurso de reclamación tributaria",
+      "branch": "Tributario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-118",
+      "title": "Recurso de apelación ante el Tribunal Fiscal",
+      "branch": "Tributario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-119",
+      "title": "Solicitud de devolución de pago indebido o en exceso",
+      "branch": "Tributario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-120",
+      "title": "Solicitud de prescripción tributaria",
+      "branch": "Tributario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-121",
+      "title": "Solicitud de fraccionamiento/aplazamiento (según régimen vigente)",
+      "branch": "Tributario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-122",
+      "title": "Demanda contencioso-administrativa tributaria",
+      "branch": "Tributario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-123",
+      "title": "Solicitud de queja ante el Tribunal Fiscal",
+      "branch": "Tributario",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-124",
+      "title": "Solicitud de inscripción registral",
+      "branch": "Registral y notarial",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-125",
+      "title": "Recurso de apelación registral",
+      "branch": "Registral y notarial",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-126",
+      "title": "Solicitud de rectificación de asiento registral",
+      "branch": "Registral y notarial",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-127",
+      "title": "Solicitud de publicidad registral",
+      "branch": "Registral y notarial",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-128",
+      "title": "Solicitud notarial de sucesión intestada",
+      "branch": "Registral y notarial",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-129",
+      "title": "Solicitud notarial de prescripción adquisitiva (si procede por ley especial)",
+      "branch": "Registral y notarial",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-130",
+      "title": "Solicitud notarial de rectificación de partida",
+      "branch": "Registral y notarial",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-131",
+      "title": "Denuncia administrativa ante INDECOPI",
+      "branch": "Consumidor y competencia",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-132",
+      "title": "Descargos ante INDECOPI",
+      "branch": "Consumidor y competencia",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-133",
+      "title": "Recurso de reconsideración administrativa",
+      "branch": "Consumidor y competencia",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-134",
+      "title": "Recurso de apelación administrativa",
+      "branch": "Consumidor y competencia",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-135",
+      "title": "Solicitud de medida cautelar administrativa",
+      "branch": "Consumidor y competencia",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-136",
+      "title": "Demanda contencioso-administrativa contra decisión administrativa",
+      "branch": "Consumidor y competencia",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-137",
+      "title": "Solicitud de conciliación extrajudicial",
+      "branch": "Arbitraje y contratación pública",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-138",
+      "title": "Solicitud de conciliación administrativa cuando proceda",
+      "branch": "Arbitraje y contratación pública",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-139",
+      "title": "Solicitud de arbitraje",
+      "branch": "Arbitraje y contratación pública",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-140",
+      "title": "Contestación de solicitud arbitral",
+      "branch": "Arbitraje y contratación pública",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-141",
+      "title": "Escrito de ofrecimiento de pruebas en arbitraje",
+      "branch": "Arbitraje y contratación pública",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-142",
+      "title": "Recurso o solicitud de anulación de laudo",
+      "branch": "Arbitraje y contratación pública",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-143",
+      "title": "Escrito sobre controversia de contratación pública",
+      "branch": "Arbitraje y contratación pública",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-144",
+      "title": "Petición inicial ante la CIDH (guía de estructura, no representación)",
+      "branch": "Derechos humanos y sistema interamericano",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-145",
+      "title": "Solicitud de medidas cautelares ante la CIDH",
+      "branch": "Derechos humanos y sistema interamericano",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-146",
+      "title": "Presentación de información complementaria",
+      "branch": "Derechos humanos y sistema interamericano",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    },
+    {
+      "id": "mod-147",
+      "title": "Solicitud de cumplimiento de reparación internacional",
+      "branch": "Derechos humanos y sistema interamericano",
+      "status": "catalogued_needs_legal_review",
+      "templateAvailable": false,
+      "legalValidationRequired": true,
+      "sourceCitationsRequired": true,
+      "versionControlRequired": true,
+      "requiredSections": [
+        "identificación del órgano/entidad competente",
+        "datos de las partes y representación, cuando corresponda",
+        "petitorio o solicitud concreta",
+        "fundamentos fácticos numerados",
+        "fundamentos jurídicos con normas vigentes verificadas",
+        "medios probatorios y finalidad probatoria, cuando corresponda",
+        "anexos y firma según vía aplicable"
+      ],
+      "warnings": [
+        "No publicar como modelo listo para presentar hasta verificar vía, competencia, legitimación, plazo, tasa, firma, anexos y norma vigente."
+      ]
+    }
+  ]
+}

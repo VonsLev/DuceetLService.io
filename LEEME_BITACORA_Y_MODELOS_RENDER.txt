@@ -1,0 +1,31 @@
+DUCEET v16 — BITÁCORA JURÍDICA + MODELOS WORD
+
+CAMBIOS
+- Bitácora flotante disponible desde todas las secciones de DUCEET.
+- Se puede abrir, cerrar y minimizar.
+- Permite crear varios cuadernos/casos, cambiar entre ellos, guardar nombre y referencia de expediente.
+- Cada cuaderno admite anotaciones de estrategia y notas de trabajo.
+- En las tarjetas de novedades/jurisprudencia se añadió la acción para guardar título, resumen visible y enlace de la fuente en la bitácora.
+- En el catálogo de jurisprudencia del laboratorio también hay acción «Guardar en bitácora».
+- Calendario interno por cuaderno: tarea, fecha, hora y nota; se pueden borrar anotaciones y fechas.
+- Las notas se guardan con localStorage en el navegador y dispositivo actuales.
+- Enlaces a los 16 DOCX con rutas absolutas desde la raíz del sitio, para despliegue estático en Render cuando se publica la carpeta completa.
+
+PUBLICACIÓN EN GITHUB / RENDER
+1. Sube el contenido completo del ZIP al repositorio, conservando la carpeta duceet-laboratorio/plantillas_word/ y sus 16 archivos DOCX.
+2. Configura Render como Static Site si solo publicas HTML y activos; Publish Directory debe ser la carpeta raíz que contiene el HTML y duceet-laboratorio/.
+3. No subas solo el HTML: los DOCX deben estar presentes en el repositorio, en las mismas rutas.
+4. Tras desplegar, prueba una URL de plantilla como /duceet-laboratorio/plantillas_word/modelo-01.docx.
+
+LIMITACIONES
+- La bitácora es local al navegador y dispositivo; no sincroniza automáticamente con otros dispositivos ni con otros usuarios. Para sincronización entre usuarios se requiere backend con autenticación y base de datos.
+- La bitácora no sustituye un calendario externo ni envía notificaciones cuando la página está cerrada.
+- No se ha validado este despliegue dentro de la cuenta de Render/GitHub del usuario. Se comprobaron sintaxis JavaScript y presencia de los 16 DOCX en el paquete.
+
+ACTUALIZACION 2026-10-21 — BITACORA VIRTUAL LEGAL (TEMA CLARO)
+La bitácora se presenta en una ventana amplia de tres columnas:
+- Izquierda: cuadernos de casos con etiqueta y expediente.
+- Centro: actos procesales, anotaciones, vista previa de imagen, reproductor de audio y precedentes.
+- Derecha: calendario mensual y plazos con cuenta regresiva de días.
+Los datos textuales se guardan en localStorage del navegador. La vista previa multimedia usa URLs temporales; los archivos originales no se suben al servidor ni se conservan al cerrar/recargar. Mantén copias externas de los adjuntos.
+Para desplegar, reemplaza el HTML principal Duceet_juridico_Peru_internacional_v16.html en GitHub y conserva el servidor, package.json, carpeta duceet-laboratorio y sus 16 plantillas Word.

@@ -1,0 +1,178 @@
+[
+  {
+    "area": "Civil",
+    "title": "Demanda de obligación de dar suma de dinero",
+    "norma": "Código Procesal Civil",
+    "kind": "petitorio",
+    "petitorio": "Que se ordene al demandado pagar S/ [MONTO], más intereses, costas y costos, si corresponde.",
+    "check": "Hechos, obligación exigible, documentos de sustento, vía procedimental y competencia deben verificarse.",
+    "templateFile": "plantillas_word/modelo-01.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 01]",
+    "baseLegal": "Código Procesal Civil"
+  },
+  {
+    "area": "Civil",
+    "title": "Contestación de demanda civil",
+    "norma": "Código Procesal Civil",
+    "kind": "contestacion",
+    "petitorio": "Que se declare infundada la demanda en los extremos contradichos.",
+    "check": "Responder cada hecho, formular defensas y ofrecer medios probatorios dentro del plazo aplicable.",
+    "templateFile": "plantillas_word/modelo-02.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 02]",
+    "baseLegal": "Código Procesal Civil"
+  },
+  {
+    "area": "Civil",
+    "title": "Solicitud de medida cautelar",
+    "norma": "Código Procesal Civil",
+    "kind": "medida cautelar",
+    "petitorio": "Que se conceda la medida cautelar de [TIPO] para asegurar la eficacia de la decisión final.",
+    "check": "Fundamentar verosimilitud del derecho, peligro en la demora, adecuación y contracautela según el caso.",
+    "templateFile": "plantillas_word/modelo-03.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 03]",
+    "baseLegal": "Código Procesal Civil"
+  },
+  {
+    "area": "Penal",
+    "title": "Tutela de derechos",
+    "norma": "Código Procesal Penal",
+    "kind": "solicitud",
+    "petitorio": "Que se convoque a audiencia de tutela y se disponga el cese de la afectación descrita.",
+    "check": "Precisar acto fiscal/policial, derecho afectado, fecha, evidencia y remedio solicitado; verificar procedencia.",
+    "templateFile": "plantillas_word/modelo-04.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 04]",
+    "baseLegal": "Código Procesal Penal"
+  },
+  {
+    "area": "Penal",
+    "title": "Solicitud de control de plazo",
+    "norma": "Código Procesal Penal",
+    "kind": "solicitud",
+    "petitorio": "Que se controle el plazo de la investigación y se adopte la decisión procesal que corresponda.",
+    "check": "Indicar etapa, fecha de inicio, prórrogas y actuaciones relevantes; confirmar plazo legal vigente.",
+    "templateFile": "plantillas_word/modelo-05.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 05]",
+    "baseLegal": "Código Procesal Penal"
+  },
+  {
+    "area": "Constitucional",
+    "title": "Demanda de amparo",
+    "norma": "Nuevo Código Procesal Constitucional",
+    "kind": "petitorio",
+    "petitorio": "Que se reponga el ejercicio del derecho constitucional [DERECHO] frente al acto lesivo descrito.",
+    "check": "Identificar derecho, acto lesivo, subsidiariedad, plazo, agotamiento de vías cuando proceda y anexos.",
+    "templateFile": "plantillas_word/modelo-06.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 06]",
+    "baseLegal": "Nuevo Código Procesal Constitucional"
+  },
+  {
+    "area": "Administrativo",
+    "title": "Recurso de reconsideración",
+    "norma": "TUO de la Ley 27444",
+    "kind": "petitorio",
+    "petitorio": "Solicito que se reconsidere la Resolución [NÚMERO] y se emita nuevo pronunciamiento.",
+    "check": "Verificar autoridad, plazo, acto impugnable y nueva prueba cuando sea exigible; revisar el TUO vigente.",
+    "templateFile": "plantillas_word/modelo-07.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 07]",
+    "baseLegal": "TUO de la Ley 27444"
+  },
+  {
+    "area": "Administrativo",
+    "title": "Recurso de apelación administrativa",
+    "norma": "TUO de la Ley 27444",
+    "kind": "petitorio",
+    "petitorio": "Solicito que se conceda el recurso y se eleve al superior jerárquico para que revoque o modifique el acto.",
+    "check": "Identificar errores de hecho/derecho, agravio, plazo y autoridad competente según el procedimiento.",
+    "templateFile": "plantillas_word/modelo-08.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 08]",
+    "baseLegal": "TUO de la Ley 27444"
+  },
+  {
+    "area": "Contencioso-administrativo",
+    "title": "Demanda contencioso-administrativa",
+    "norma": "Ley 27584 y normas modificatorias",
+    "kind": "petitorio",
+    "petitorio": "Solicito la pretensión contencioso-administrativa descrita respecto del acto/actuación impugnada.",
+    "check": "Comprobar actuación impugnable, agotamiento de vía, plazo, competencia, acumulación y expediente administrativo.",
+    "templateFile": "plantillas_word/modelo-09.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 09]",
+    "baseLegal": "Ley 27584 y normas modificatorias"
+  },
+  {
+    "area": "Laboral",
+    "title": "Demanda laboral",
+    "norma": "Nueva Ley Procesal del Trabajo — Ley 29497",
+    "kind": "petitorio",
+    "petitorio": "Solicito el reconocimiento y pago de los conceptos laborales individualizados y acreditados.",
+    "check": "Precisar vínculo, periodo, conceptos y cálculo; revisar competencia, vía, conciliación si aplica y anexos.",
+    "templateFile": "plantillas_word/modelo-10.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 10]",
+    "baseLegal": "Nueva Ley Procesal del Trabajo — Ley 29497"
+  },
+  {
+    "area": "Familia",
+    "title": "Demanda de alimentos",
+    "norma": "Código de los Niños y Adolescentes y normas aplicables",
+    "kind": "petitorio",
+    "petitorio": "Solicito que se fije una pensión alimenticia proporcional a las necesidades y posibilidades acreditadas.",
+    "check": "Acreditar parentesco, necesidades, capacidad económica y datos de notificación; revisar reglas especiales.",
+    "templateFile": "plantillas_word/modelo-11.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 11]",
+    "baseLegal": "Código de los Niños y Adolescentes y normas aplicables"
+  },
+  {
+    "area": "Comercial",
+    "title": "Demanda ejecutiva por título valor",
+    "norma": "Ley de Títulos Valores y Código Procesal Civil",
+    "kind": "petitorio",
+    "petitorio": "Solicito que se ordene el pago de la obligación contenida en el título valor adjunto.",
+    "check": "Verificar mérito ejecutivo, vencimiento, legitimación, protesto o formalidad sustitutoria cuando corresponda.",
+    "templateFile": "plantillas_word/modelo-12.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 12]",
+    "baseLegal": "Ley de Títulos Valores y Código Procesal Civil"
+  },
+  {
+    "area": "Tributario",
+    "title": "Recurso de reclamación tributaria",
+    "norma": "Código Tributario vigente",
+    "kind": "petitorio",
+    "petitorio": "Solicito que se admita y declare fundado el reclamo contra el valor/acto identificado.",
+    "check": "Comprobar acto reclamable, plazo, requisitos, pago/garantía cuando aplique y reglas específicas.",
+    "templateFile": "plantillas_word/modelo-13.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 13]",
+    "baseLegal": "Código Tributario vigente"
+  },
+  {
+    "area": "Consumidor",
+    "title": "Reclamo ante proveedor / denuncia de consumo",
+    "norma": "Código de Protección y Defensa del Consumidor",
+    "kind": "petitorio",
+    "petitorio": "Solicito la solución concreta descrita y, de corresponder, la tramitación ante la autoridad competente.",
+    "check": "Distinguir reclamo ante proveedor y denuncia administrativa; adjuntar comprobantes y comunicaciones.",
+    "templateFile": "plantillas_word/modelo-14.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 14]",
+    "baseLegal": "Código de Protección y Defensa del Consumidor"
+  },
+  {
+    "area": "Registral",
+    "title": "Recurso de apelación registral",
+    "norma": "Reglamento General de los Registros Públicos y normas registrales",
+    "kind": "petitorio",
+    "petitorio": "Solicito que se revoque la observación/tacha contenida en el título indicado.",
+    "check": "Identificar título, asiento, esquela, agravios y plazo registral aplicable.",
+    "templateFile": "plantillas_word/modelo-15.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 15]",
+    "baseLegal": "Reglamento General de los Registros Públicos y normas registrales"
+  },
+  {
+    "area": "Contratación pública",
+    "title": "Recurso impugnativo en contratación pública",
+    "norma": "Ley y reglamento de contrataciones públicas vigentes",
+    "kind": "petitorio",
+    "petitorio": "Solicito que se declare fundado el recurso y se adopte la consecuencia jurídica solicitada.",
+    "check": "Verificar régimen aplicable, legitimación, acto impugnable, plazo, garantía y autoridad competente.",
+    "templateFile": "plantillas_word/modelo-16.docx",
+    "documentNumber": "[NÚMERO DE ESCRITO 16]",
+    "baseLegal": "Ley y reglamento de contrataciones públicas vigentes"
+  }
+]

@@ -1,0 +1,11 @@
+DUCEET v16.4 — NAVEGACIÓN FUNCIONAL PARA TODAS LAS RAMAS
+
+Corrección general: no se limita a Tributario e Informático. Las tarjetas principales y el selector desplegable ahora incluyen navegación para cada clave definida en BRANCHES, junto con accesos a grupos jurídicos. Cada botón selecciona su rama/grupo, limpia la búsqueda y filtros residuales, abre Novedades/Jurisprudencia, renderiza el listado filtrado y desplaza al feed.
+
+ARCHIVOS A REEMPLAZAR EN LA RAÍZ DEL REPOSITORIO GITHUB:
+- Duceet_juridico_Peru_internacional_v16.html
+- Duceet_juridico_Peru_internacional_v16_LAB_INTEGRADO.html
+
+Para esta corrección de interfaz no reemplaces package.json ni el servidor. Conserva todos los JSON y modelos Word. Confirma el commit y vuelve a desplegar Render. Después de desplegar, usa Ctrl+F5 y prueba varias ramas del selector, además de una tarjeta destacada.
+
+Los contadores reflejan registros en el índice local/sincronizado clasificados por la rama o grupo. Un contador no acredita por sí solo el carácter vinculante de una resolución; se debe abrir y verificar la fuente. Si una rama muestra 0, la navegación igualmente se activa, pero el índice local no contiene registros clasificados en ella en ese momento.

@@ -1,0 +1,17 @@
+DUCEET v16 — paquete completo con bitácora, modelos Word y buscador de jurisprudencia
+
+Este paquete conserva los recursos de la versión Bitácora Jurídica y añade un buscador en la sección Novedades y Jurisprudencia.
+Incluye servidor Node.js, package.json, archivos del laboratorio y las 16 plantillas Word.
+
+GitHub/Render:
+- Subir el CONTENIDO completo del ZIP a la raíz del repositorio (no la carpeta que contiene el ZIP).
+- Build Command: npm install
+- Start Command: npm start
+- Root Directory: vacío si package.json está en la raíz.
+- Render debe configurarse como Web Service.
+
+Modelos Word:
+/duceet-laboratorio/plantillas_word/modelo-01.docx hasta modelo-16.docx
+El servidor sirve de forma estática archivos dentro de /duceet-laboratorio/.
+
+Pruebas realizadas en la preparación del paquete: comprobación de sintaxis Node.js, presencia de los 16 DOCX, estructura del ZIP e inserción del buscador en el HTML. No se ha podido verificar un despliegue real dentro de la cuenta Render del usuario ni conectividad en vivo de todas las fuentes.

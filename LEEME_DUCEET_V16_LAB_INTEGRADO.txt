@@ -1,0 +1,24 @@
+DUCEET v16 + LABORATORIO v1.5 INTEGRADO
+
+ARCHIVO PRINCIPAL: Duceet_juridico_Peru_internacional_v16_LAB_INTEGRADO.html
+
+Qué se integró:
+- Base principal DUCEET v16 conservada.
+- Catálogo de 16 plantillas Word descargables en la vista Modelos Técnicos.
+- Catálogo local de jurisprudencia con categoría, sumilla y enlace a fuente institucional.
+- Convocatorias del corte 08/10/2026, con enlaces a bases/portal y aviso de verificación.
+- Guiones de Legalmente Creativos.
+- Accesos de búsqueda a repositorios académicos: ALICIA-CONCYTEC, SciELO, LA Referencia, Google Scholar y fuentes adicionales definidas en el laboratorio.
+- Activos JSON y DOCX preservados en ./duceet-laboratorio/.
+
+EJECUCIÓN
+1. Extrae TODO el ZIP en una carpeta nueva.
+2. Abre el archivo HTML integrado en Chrome o Edge.
+3. Para fuentes que dependan del servidor local, ejecuta el servidor Node.js si tu instalación v16 lo utiliza.
+4. Mantén la carpeta duceet-laboratorio junto al HTML: las plantillas Word se descargan desde ahí.
+
+IMPORTANTE
+- La búsqueda académica de esta integración abre buscadores/repositorios externos; no inventa resultados ni aloja copias de materiales.
+- Los registros jurisprudenciales locales son puntos de entrada a fuentes originales. Verifica texto íntegro, fecha y alcance jurídico antes de atribuir carácter vinculante.
+- Las convocatorias están fechadas al 08/10/2026; confirma vigencia en la fuente oficial.
+- Se conservó la lógica original de navegación y sincronización de DUCEET v16; el reloj añadido actualiza la interfaz cada segundo y el ciclo está configurado en tres horas.

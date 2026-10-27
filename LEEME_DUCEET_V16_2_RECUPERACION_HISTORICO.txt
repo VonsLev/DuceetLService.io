@@ -1,0 +1,40 @@
+DUCEET v16.2 — Retención del histórico, respaldo, cronómetro y bitácora dual
+
+IMPORTANTE: este paquete no contiene el archivo antiguo de 2.595 registros. Los paquetes locales disponibles contienen un conjunto de 97 registros, no los 2.595. Esta versión no inventa resoluciones ni fuerza el contador: prepara la app para combinar históricos reales y detener pérdidas en siguientes sincronizaciones. Para restaurar exactamente los 2.595 hace falta un respaldo JSON, un disco persistente anterior o una versión de GitHub/Render donde ese archivo aún exista.
+
+1. ANTES DE REEMPLAZAR ARCHIVOS
+- Conserva una copia local de los archivos actuales y no borres despliegues antiguos, discos ni commits.
+- En el repositorio reemplaza Duceet_juridico_Peru_internacional_v16.html, Duceet_juridico_Peru_internacional_v16_LAB_INTEGRADO.html y duceet-tracker-server-v16.js por los archivos de este ZIP.
+- Conserva package.json, la carpeta duceet-laboratorio y los 16 modelos DOCX incluidos.
+- Build Command en Render: npm install
+- Start Command en Render: npm start
+
+2. PROTEGER EL HISTÓRICO EN RENDER
+- Adjunta un Persistent Disk al servicio web de Render con mount path /var/data.
+- En Environment, añade DUCEET_DATA_DIR=/var/data.
+- Añade DUCEET_ADMIN_TOKEN y asigna una cadena secreta larga que no publiques en GitHub.
+- Guarda los cambios y despliega.
+El servidor ahora fusiona los archivos JSON heredados que encuentra y las sincronizaciones combinan con los datos almacenados; no sustituyen el histórico por el lote nuevo.
+
+3. RESPALDAR Y RECUPERAR
+- En DUCEET, usa “Exportar respaldo JSON” y guarda el archivo fuera de Render, por ejemplo en tu PC y en una copia de seguridad adicional.
+- Para recuperar registros de un JSON anterior, pulsa “Importar respaldo” y selecciona el archivo. La importación local combina; cuando solicita el token de administración, introduce DUCEET_ADMIN_TOKEN para guardar también el histórico importado en el servidor.
+- Luego abre /api/status para comprobar el campo count y utiliza “Exportar respaldo JSON” otra vez para conservar una copia verificada.
+- Si no tienes archivo ni commit con los 2.595 registros, no hay forma honesta de reconstruir exactamente esas fichas solo desde el paquete actual. Revisa en Render si existía Persistent Disk y en GitHub el historial de commits antes de hacer más cambios.
+
+4. CRONÓMETRO
+- El contador usa una fecha de próximo ciclo persistida y se actualiza cada segundo como HH:MM:SS. El ciclo es de 3 horas y al vencer agenda el siguiente periodo, aunque la consulta a fuentes falle temporalmente.
+- El cronómetro marca el periodo de próxima ejecución; no significa que todas las fuentes externas hayan respondido correctamente.
+
+5. BITÁCORA VIRTUAL LEGAL
+- En “Crear cuaderno para” elige Caso jurídico o Investigación jurídica.
+- Ambos tipos conservan calendario, fechas y plazos. El cuaderno de investigación cambia los campos y el cronograma a proyecto, pregunta, problema, objetivos, metodología, palabras clave y bibliografía.
+- En Mini-Biblioteca, dentro de “Mis lecturas guardadas”, usa “Guardar en mi cuaderno” para incorporar la referencia al cuaderno que esté activo en ese momento. Si quieres guardar la lectura en una investigación, selecciona primero el cuaderno de investigación en la bitácora.
+- Las notas y cuadernos de esta versión siguen guardándose en el navegador/dispositivo; no se sincronizan entre dispositivos. Los adjuntos multimedia usan almacenamiento del navegador.
+
+6. COMPROBACIÓN POST-DESPLIEGUE
+- Abre /api/status y mira count.
+- Comprueba en el cronómetro que HH:MM:SS cambia cada segundo.
+- Crea un cuaderno de investigación, añade un plazo y verifica que aparece en el calendario.
+- Guarda una lectura en Mini-Biblioteca y pulsa “Guardar en mi cuaderno”.
+- Exporta un JSON de respaldo y conserva una copia fuera de Render.

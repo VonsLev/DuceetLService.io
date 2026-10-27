@@ -1,0 +1,78 @@
+{
+  "version": "1.3.1",
+  "defaultDateWindowYears": 5,
+  "defaultDateWindowStart": "2021-10-08",
+  "types": [
+    "libro",
+    "capítulo",
+    "artículo científico",
+    "tesis de licenciatura",
+    "tesis de maestría",
+    "tesis doctoral",
+    "informe",
+    "norma",
+    "jurisprudencia",
+    "manual",
+    "ponencia"
+  ],
+  "filters": [
+    "texto libre",
+    "tipo de material",
+    "tema/materia",
+    "autor",
+    "año desde/hasta",
+    "idioma",
+    "país",
+    "institución/repositorio",
+    "acceso abierto",
+    "texto completo disponible"
+  ],
+  "ranking": [
+    "coincidencia en título",
+    "coincidencia en palabras clave",
+    "coincidencia en resumen",
+    "fecha más reciente",
+    "fuente institucional",
+    "texto completo o acceso abierto"
+  ],
+  "sourcePolicy": [
+    "Consultar metadatos y enlazar al registro original.",
+    "No alojar copias de libros/artículos sin permiso.",
+    "No afirmar que un recurso es abierto si el registro no lo confirma.",
+    "Mostrar materiales de los últimos cinco años por defecto y permitir ampliar el rango.",
+    "Si una fuente no tiene API pública verificada, usar búsqueda externa/enlace de consulta y no simular una integración API."
+  ],
+  "connectors": [
+    "Crossref API",
+    "OpenAlex API",
+    "ALICIA (enlace de búsqueda)",
+    "SciELO (enlace de búsqueda)",
+    "LA Referencia (enlace de búsqueda)",
+    "Google Scholar (enlace de búsqueda)"
+  ],
+  "limitations": [
+    "No todos los repositorios ofrecen API pública; los enlaces de búsqueda complementan resultados API.",
+    "La detección automática de autor y año puede ser incorrecta; se exige revisión humana.",
+    "Los estilos bibliográficos se ofrecen como plantillas orientativas y requieren comprobación de la edición aplicable."
+  ],
+  "citationStyles": [
+    "APA 7",
+    "Chicago autor-fecha",
+    "Vancouver",
+    "MLA 9",
+    "Harvard modelo autor-fecha",
+    "ISO 690 modelo",
+    "IEEE modelo",
+    "OSCOLA modelo jurídico",
+    "Bluebook modelo jurídico estadounidense",
+    "Turabian modelo",
+    "AMA modelo biomédico",
+    "ACS modelo científico",
+    "CSE modelo científico"
+  ],
+  "uploadMetadata": [
+    "PDF metadata Title/Author",
+    "texto inicial de primeras 3 páginas",
+    "OCR local con Tesseract para documentos escaneados"
+  ]
+}

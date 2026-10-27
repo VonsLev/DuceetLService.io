@@ -1,0 +1,13 @@
+DUCEET v16.2 — recuperación segura del histórico y bitácora de investigación
+
+- La importación de históricos fusiona fuentes JSON heredadas en vez de detenerse en el primer archivo.
+- La sincronización combina registros nuevos con los persistidos y vuelve a leer el estado antes de guardar, para no aplastar una importación que ocurra durante una indexación.
+- Retención ampliada a 20.000 registros y deduplicación por enlace/ID.
+- Exportación e importación JSON; restaurar en servidor requiere DUCEET_ADMIN_TOKEN.
+- Persistencia compatible con Render Persistent Disk por DUCEET_DATA_DIR.
+- Cronómetro unificado por un vencimiento persistido: HH:MM:SS y siguiente ciclo de tres horas sin quedar bloqueado en 00:00:00.
+- Bitácora con elección de tipo Caso jurídico o Investigación jurídica; ambos conservan calendario y plazos, la investigación adapta objetivos, metodología, fuentes y cronograma.
+- Cada lectura guardada en Mini-Biblioteca tiene acción para guardarla en el cuaderno activo.
+- Se mantienen los 16 modelos Word y archivos del laboratorio.
+
+Límite de recuperación: no se encontró un archivo local con las 2.595 fichas; los paquetes disponibles contienen 97 en su archivo de tracker. La versión evita pérdidas futuras y permite restaurar datos desde respaldo auténtico, pero no fabrica las fichas que faltan.

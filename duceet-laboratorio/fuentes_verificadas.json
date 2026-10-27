@@ -1,0 +1,101 @@
+{
+  "version": "1.0.0",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "id": "pj_jurisprudencia",
+      "name": "Poder Judicial — Jurisprudencia Nacional Sistematizada",
+      "type": "jurisprudence",
+      "url": "https://scc.pj.gob.pe/wps/wcm/connect/cij/s_pjcij/as_sistematizacion",
+      "searchable": true,
+      "method": "portal_search_or_official_record",
+      "content": "resoluciones, ejecutorias y criterios judiciales",
+      "verification": "portal oficial identificado; cada resolución y carácter vinculante debe comprobarse individualmente"
+    },
+    {
+      "id": "tc_iura",
+      "name": "Tribunal Constitucional — Iura",
+      "type": "jurisprudence",
+      "url": "https://ia.tc.gob.pe/jurisprudencia",
+      "searchable": true,
+      "method": "portal_search_or_official_record",
+      "content": "sentencias, fundamentos, partes y temas",
+      "verification": "portal oficial identificado; citar el PDF de la sentencia cuando esté disponible"
+    },
+    {
+      "id": "alicia",
+      "name": "ALICIA — CONCYTEC",
+      "type": "library",
+      "url": "https://alicia.concytec.gob.pe/vufind/",
+      "searchUrlTemplate": "https://alicia.concytec.gob.pe/vufind/index.php/Search/Results?lookfor={query}&type=AllFields",
+      "searchable": true,
+      "method": "search_url_template",
+      "content": "tesis, artículos, libros, publicaciones y producción científica peruana",
+      "rights": "mostrar metadatos y enlace al repositorio original; respetar licencias y derechos de autor"
+    },
+    {
+      "id": "scielo_peru",
+      "name": "SciELO Perú",
+      "type": "library",
+      "url": "https://www.scielo.org.pe/",
+      "searchable": true,
+      "method": "portal_search",
+      "content": "artículos de revistas científicas seleccionadas"
+    },
+    {
+      "id": "la_referencia",
+      "name": "LA Referencia",
+      "type": "library",
+      "url": "https://www.lareferencia.info/",
+      "searchable": true,
+      "method": "portal_search_or_api_after_verification",
+      "content": "repositorios de acceso abierto de América Latina"
+    },
+    {
+      "id": "concytec_library",
+      "name": "Biblioteca Virtual CONCYTEC",
+      "type": "library",
+      "url": "https://biblioteca.concytec.gob.pe/colecciones/",
+      "searchable": true,
+      "method": "portal_search",
+      "content": "recursos científicos de acceso abierto y bases de datos; algunas colecciones pueden requerir acceso institucional"
+    },
+    {
+      "id": "talento_peru",
+      "name": "Talento Perú — SERVIR",
+      "type": "convocatorias",
+      "url": "https://www.gob.pe/talento-peru",
+      "searchable": true,
+      "method": "portal_search_or_official_link",
+      "content": "empleos y prácticas en entidades públicas"
+    },
+    {
+      "id": "sunat_jobs",
+      "name": "SUNAT — Oportunidad laboral",
+      "type": "convocatorias",
+      "url": "https://www.sunat.gob.pe/oportunidadlaboral/",
+      "searchable": true,
+      "method": "portal_search_or_official_link",
+      "content": "convocatorias laborales SUNAT"
+    },
+    {
+      "id": "servir_jobs",
+      "name": "SERVIR — Oportunidades laborales",
+      "type": "convocatorias",
+      "url": "https://www.servir.gob.pe/nosotros/oportunidades-laborales/",
+      "searchable": true,
+      "method": "portal_search_or_official_link",
+      "content": "convocatorias propias de SERVIR"
+    },
+    {
+      "id": "minjus_tuo27444_2026",
+      "name": "MINJUSDH — TUO Ley 27444, edición oficial 2026",
+      "type": "legislation",
+      "url": "https://www.gob.pe/institucion/minjus/informes-publicaciones/8441836-primera-edicion-oficial-del-texto-unico-ordenado-de-la-ley-n-27444-ley-del-procedimiento-administrativo-general-aprobado-por-el-decreto-supremo-n-006-2026-jus-actualizada-al-8-07-2026",
+      "searchable": false,
+      "method": "official_reference",
+      "content": "edición oficial del TUO de la Ley 27444 actualizado al 8 de julio de 2026",
+      "verification": "usar para actualizar los modelos administrativos; comprobar modificaciones posteriores antes de publicar"
+    }
+  ]
+}

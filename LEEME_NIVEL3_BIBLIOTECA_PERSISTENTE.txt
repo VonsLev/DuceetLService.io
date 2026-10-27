@@ -1,0 +1,42 @@
+DUCEET v16 + LABORATORIO v1.5 — NIVEL 3: ACTUALIZACIÓN PERSISTENTE
+
+INICIO RECOMENDADO
+1. Extrae el ZIP completo a una carpeta local.
+2. Instala Node.js 18 o superior si no está instalado.
+3. Ejecuta iniciar-duceet-v16.bat.
+4. Abre http://127.0.0.1:8787 en Chrome o Edge. No abras el HTML con doble clic si quieres usar la API persistente.
+
+QUÉ HACE
+- Conserva la base DUCEET v16 y los activos del laboratorio v1.5.
+- Índice persistente en duceet-library-index-v16.json (se crea junto al servidor).
+- Recolección académica programada cada 24 horas desde OpenAlex y Crossref, con metadatos y enlaces a las fuentes originales.
+- Los resultados de búsquedas académicas también se agregan al índice compartido del servidor local.
+- Deduplicación por DOI/URL, marca de última actualización, conteo y errores de fuentes.
+- La actualización de jurisprudencia del rastreador existente se mantiene en su intervalo original de 3 horas.
+
+ENDPOINTS LOCALES
+GET  /api/library/status
+GET  /api/library/items?q=derecho%20civil&limit=100
+POST /api/library/refresh  (iniciar actualización manual)
+GET  /api/status  (rastreador jurisprudencial existente)
+POST /api/refresh  (actualizar rastreador jurisprudencial)
+
+LÍMITES IMPORTANTES
+- La recolección programada ocurre mientras el servidor Node está encendido; no funciona con el servidor apagado. Para actualizaciones aunque tu PC esté apagada, habría que desplegar el backend en un servidor permanente.
+- La cobertura depende de las APIs y de sus respuestas. No se copian ni alojan los textos completos; se guardan metadatos y enlaces originales.
+- Crossref/OpenAlex son índices académicos generales; la categoría jurídica y rama asignadas automáticamente son orientativas. Verifica manualmente la fuente, autoría, fecha y acceso abierto.
+- La primera recolección puede tardar algunos minutos. Los errores se registran y una fuente fallida no borra los registros anteriores.
+
+REPARACIÓN DE COMPATIBILIDAD (09/10/2026)
+- Se corrigió un error de integración que había insertado el script del laboratorio dentro de la plantilla HTML usada para exportar escritos a Word. Eso provocaba que el navegador cortara el script principal y dejara inoperativos el contador y varias funciones.
+- El servidor local ahora sirve de forma segura los archivos estáticos dentro de la carpeta del proyecto, incluidos los 16 DOCX editables; antes respondía 404 a esos enlaces.
+- Verificaciones realizadas: sintaxis de todos los bloques JavaScript; inicio HTTP local; estado de la API; persistencia CRUD de la MiniBiblioteca; los 16 enlaces DOCX responden HTTP 200.
+- Limitación: la prueba visual completa en navegador no pudo completarse en este entorno. La recolección real de OpenAlex/Crossref también depende de que el equipo tenga conexión a Internet y esas APIs respondan.
+
+AJUSTES DE INTERFAZ (10/10/2026)
+- La mascota Duceet ahora muestra el texto completo de sugerencias y consejos; el globo puede desplazarse si el mensaje es largo.
+- El buscador superior de repositorios incluye «Buscar resultados aquí en Mini-Biblioteca», que lleva la consulta al buscador de materiales y desplaza la vista a los resultados.
+- La Mini-Biblioteca filtra por defecto los materiales de los últimos cinco años y ofrece filtros para los últimos diez años o cualquier año.
+- Los registros sin año conocido se excluyen del filtro predeterminado de cinco años; pueden consultarse eligiendo «Cualquier año».
+
+Nota de validación: se comprobaron sintaxis de los scripts JavaScript incrustados y consistencia de los cambios. No se pudo verificar la conexión a fuentes académicas externas desde el entorno de construcción; esa conexión depende de la red del equipo donde se ejecute DUCEET.

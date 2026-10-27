@@ -1,0 +1,19 @@
+DUCEET v16.5 — CORRECCIÓN REAL DE NAVEGACIÓN POR RAMAS
+
+CAUSA ENCONTRADA
+El buscador de jurisprudencia llamaba a norm(), pero esa función solo existía dentro de otro bloque JavaScript aislado. El navegador generaba “norm is not defined” y la inicialización principal quedaba interrumpida, por lo que las tarjetas de áreas parecían no responder.
+
+CORRECCIÓN
+- Se definió el normalizador de texto en el ámbito correcto de la aplicación principal.
+- Se comprobó en Chromium local que las 12 tarjetas destacadas actualizan la rama seleccionada y muestran registros de esa misma rama. No se detectaron errores JavaScript durante esos clics.
+- Las opciones “Exportar respaldo JSON” e “Importar respaldo” se movieron a “Herramientas avanzadas (opcional)”, con una explicación visible solo al desplegarlas. No son necesarias para consultar jurisprudencia.
+
+PUBLICACIÓN
+Para actualizar una instalación ya desplegada, reemplaza en la raíz del repositorio únicamente:
+  Duceet_juridico_Peru_internacional_v16.html
+  Duceet_juridico_Peru_internacional_v16_LAB_INTEGRADO.html
+
+Conserva el servidor, package.json, los archivos JSON y los modelos Word que ya tienes. Haz commit en GitHub y espera que Render termine el nuevo despliegue. Después actualiza con Ctrl+F5.
+
+ALCANCE DE LA PRUEBA
+Los clics de las tarjetas se probaron localmente en Chromium y se confirmó que seleccionan su rama correspondiente. No fue posible consultar la instancia alojada de Render desde el entorno de preparación; por tanto, esta prueba no certifica el despliegue remoto hasta que se publique el HTML corregido.

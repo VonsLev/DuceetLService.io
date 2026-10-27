@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Talento Perú — SERVIR",
+    "description": "Ofertas de empleo y prácticas del Estado peruano. Verifica bases, cronograma y fecha límite en cada convocatoria.",
+    "url": "https://www.gob.pe/talentoperu"
+  },
+  {
+    "name": "Convocatorias de SERVIR",
+    "description": "Oportunidades laborales de la Autoridad Nacional del Servicio Civil.",
+    "url": "https://www.servir.gob.pe/nosotros/oportunidades-laborales/"
+  },
+  {
+    "name": "SUNAT — Oportunidad laboral",
+    "description": "Procesos de selección publicados por SUNAT.",
+    "url": "https://www.sunat.gob.pe/oportunidadlaboral/"
+  },
+  {
+    "name": "Poder Judicial — Convocatorias",
+    "description": "Consulta convocatorias y procesos de selección del Poder Judicial en su portal oficial.",
+    "url": "https://www.pj.gob.pe/"
+  },
+  {
+    "name": "Ministerio Público — Convocatorias",
+    "description": "Consulta procesos de selección en el portal institucional y verifica el documento de bases.",
+    "url": "https://www.gob.pe/mpfn"
+  }
+]

@@ -1,0 +1,13 @@
+DUCEET v16.3 — Navegación por áreas jurídicas
+
+Para actualizar la versión desplegada, reemplaza en la raíz del repositorio estos dos archivos HTML:
+- Duceet_juridico_Peru_internacional_v16.html
+- Duceet_juridico_Peru_internacional_v16_LAB_INTEGRADO.html
+
+No reemplaces el servidor ni package.json para esta corrección: es un arreglo de navegación/interfaz. Conserva el resto del repositorio, incluidos los JSON y los modelos Word. Confirma los cambios en GitHub y vuelve a desplegar en Render.
+
+Prueba posterior al despliegue:
+1. Abre Novedades.
+2. Haz una búsqueda cualquiera y selecciona un filtro opcional para comprobar que se pueden limpiar desde la tarjeta de rama.
+3. Pulsa “Derecho Tributario” o “Derecho Informático”.
+4. Debe abrir la vista Novedades/Jurisprudencia, desplazarse al listado real y mostrar “Rama seleccionada: …” con resoluciones visibles. El botón “Ver más publicaciones” muestra los siguientes resultados.

@@ -1,0 +1,66 @@
+{
+  "project": "DUCEET",
+  "workstream": "independent-modules-before-integration",
+  "version": "1.0.0",
+  "gates": [
+    {
+      "id": "G1",
+      "name": "Data/source audit",
+      "exitCriteria": [
+        "all source URLs identified by type and ownership",
+        "no fabricated API claims",
+        "rights/access policy recorded"
+      ]
+    },
+    {
+      "id": "G2",
+      "name": "Jurisprudence data quality",
+      "exitCriteria": [
+        "every published item has official individual source where possible",
+        "sumilla separated from editorial explanation",
+        "juridical category and binding status verified",
+        "no duplicate seed records"
+      ]
+    },
+    {
+      "id": "G3",
+      "name": "Legal writing catalog",
+      "exitCriteria": [
+        "prioritized models drafted per branch",
+        "each template has norm references and checked-as-of date",
+        "procedural deadlines and formal requirements reviewed",
+        "DOCX export tests pass"
+      ]
+    },
+    {
+      "id": "G4",
+      "name": "Universal library",
+      "exitCriteria": [
+        "cross-source query and filters work",
+        "5-year default and date-range override work",
+        "deduplication and source links work",
+        "errors from individual source do not break whole search"
+      ]
+    },
+    {
+      "id": "G5",
+      "name": "Convocatorias",
+      "exitCriteria": [
+        "official source link per item",
+        "deadline and status verification",
+        "expired listings separated",
+        "duplicate detection works"
+      ]
+    },
+    {
+      "id": "G6",
+      "name": "Integration",
+      "exitCriteria": [
+        "automated data/API tests pass",
+        "browser interaction smoke tests pass",
+        "all module failure states show clear messages",
+        "backup and rollback archive created"
+      ]
+    }
+  ]
+}

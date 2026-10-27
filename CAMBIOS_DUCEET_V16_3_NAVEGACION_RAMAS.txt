@@ -1,0 +1,11 @@
+DUCEET v16.3 — Corrección de navegación a jurisprudencia por rama
+
+Correcciones:
+1. Pulsar una tarjeta jurídica selecciona la rama y abre Novedades/Jurisprudencia.
+2. Antes de mostrar los resultados se limpian búsquedas y filtros residuales (texto, impacto, solo hitos e histórico) que podían dejar el listado vacío.
+3. La navegación desplaza directamente al feed de resoluciones, no al buscador de hitos que solo mostraba una selección limitada.
+4. El contador de cada tarjeta usa el mismo criterio de rama que el feed.
+5. El encabezado del listado indica la rama seleccionada y el número real de registros filtrados.
+6. Repetir clic en una tarjeta mantiene seleccionada la rama; se usa el filtro “Todas” para volver al listado completo.
+
+Se preservan el servidor, package.json, la carpeta duceet-laboratorio y los 16 modelos Word del paquete base v16.2.

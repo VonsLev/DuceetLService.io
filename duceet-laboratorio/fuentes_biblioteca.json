@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ALICIA — CONCYTEC",
+    "type": "Tesis, artículos, libros y producción científica peruana",
+    "url": "https://alicia.concytec.gob.pe/vufind/index.php/Search/Results?lookfor={q}&type=AllFields",
+    "note": "Repositorio nacional; resultados dependen de la consulta del portal."
+  },
+  {
+    "name": "SciELO Perú",
+    "type": "Artículos científicos",
+    "url": "https://search.scielo.org/?q={q}&lang=es",
+    "note": "Búsqueda en la colección SciELO; cobertura por revistas participantes."
+  },
+  {
+    "name": "LA Referencia",
+    "type": "Repositorios académicos latinoamericanos",
+    "url": "https://www.lareferencia.info/vufind/Search/Results?lookfor={q}&type=AllFields",
+    "note": "Agregador regional; puede redirigir a repositorios institucionales."
+  },
+  {
+    "name": "Google Scholar",
+    "type": "Artículos, libros y citas académicas",
+    "url": "https://scholar.google.com/scholar?q={q}",
+    "note": "Buscador externo; verificar autoría, fecha y disponibilidad legal."
+  },
+  {
+    "name": "Repositorio CONCYTEC",
+    "type": "Publicaciones y documentos de investigación",
+    "url": "https://repositorio.concytec.gob.pe/simple-search?query={q}",
+    "note": "Repositorio institucional; comprobar los metadatos de cada registro."
+  }
+]

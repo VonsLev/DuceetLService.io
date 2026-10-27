@@ -1,0 +1,11 @@
+DUCEET v16.1 — resumen de cambios
+
+- Temporizador de indexación autónoma con formato HH:MM:SS.
+- Sugerencias de Lexito clicables con navegación a módulos/fuentes.
+- Tarjetas de áreas jurídicas conectadas al buscador de jurisprudencia.
+- Buscador del catálogo del laboratorio normalizado y con estado de resultados.
+- Carga múltiple y almacenamiento individual de imágenes/audios mediante IndexedDB.
+- Nueva ficha por caso para investigación jurídica y trabajos académicos.
+- Pulido de tipografía, espaciado, tarjetas, multimedia y diseño adaptable.
+
+Notas: imagen/audio se conserva localmente en el navegador; no se sincroniza a Render. Las fichas del catálogo requieren verificación de la resolución íntegra para confirmar el alcance vinculante.

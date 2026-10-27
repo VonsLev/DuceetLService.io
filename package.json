@@ -1,0 +1,11 @@
+{
+  "name": "duceet-v16-persistencia",
+  "version": "16.6.0",
+  "private": true,
+  "scripts": {
+    "start": "node duceet-tracker-server-v16.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
